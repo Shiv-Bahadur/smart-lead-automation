@@ -12,7 +12,7 @@ function NameInput(props) {
                 alert("Please enter name");
                 return;
             }
-            const response = await fetch(`http://localhost:5000/api/names`, {
+            const response = await fetch(`https://smart-lead-automation-3wlz.onrender.com/api/names`, {
                 method: 'POST',
                 headers: { 'content-type': 'application/json' },
                 body: JSON.stringify(arr)
