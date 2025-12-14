@@ -1,0 +1,11 @@
+# Ignore all node_modules anywhere
+node_modules/
+
+# Environment variables
+.env
+frontend/.env
+backend/.env
+
+# Builds
+build/
+dist/
