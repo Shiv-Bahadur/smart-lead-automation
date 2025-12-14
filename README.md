@@ -70,7 +70,7 @@ Background tasks run smoothly without any inturruption.
 
 # Deliverables
 
-Live Frontend URL
+Live Frontend URL:https://smart-lead-automation-frontend.onrender.com
 
 Live Backend API URL:https://smart-lead-automation-3wlz.onrender.com/api/names
 
