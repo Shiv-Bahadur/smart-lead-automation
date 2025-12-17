@@ -30,7 +30,6 @@ cd backend
 npm install
 npm run dev
 
-Backend runs on http://localhost:5000
 
 # Frontend Setup
 
@@ -39,7 +38,6 @@ cd frontend
 npm install
 npm run dev
 
-Frontend runs on http://localhost:8153
 ```
 
 ## Architectural Explanation
